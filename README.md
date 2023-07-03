@@ -1,4 +1,6 @@
 <div align="center">
+
+![Github Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saint-james-fr&theme=dark)
 <h1><strong>Maxence Robinet</strong></h1>
 <h3><strong>FULLSTACK WEB DEVELOPER</strong></h3>
 
@@ -10,15 +12,6 @@ Welcome on my profile! My name is Maxence and I'm a web developer from Paris in 
 <br>
 <a href="https://fr.linkedin.com/in/maxence-robinet">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-⚡ Fun fact - I'm also doing music!
-
-<a href="https://open.spotify.com/intl-fr/artist/1X5nimB3dDNsyoed4FzH3n">
-<img src="https://img.shields.io/badge/Saint&ndash;James-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-<a href="https://open.spotify.com/intl-fr/artist/1pca7aLNfTH9GgVirbglny">
-<img src="https://img.shields.io/badge/Margot_et_max-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
 ---
@@ -47,13 +40,19 @@ Welcome on my profile! My name is Maxence and I'm a web developer from Paris in 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=saint-james-fr&theme=dark)
 
 ---
 
+⚡ Fun fact - I'm also doing music!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saint-james-fr&theme=dark)](https://git.io/streak-stats)
-[![saint-james-fr stats](https://github-readme-stats.vercel.app/api?username=saint-james-fr&hide=stars&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-![saint-james-fr stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-james-fr&theme=dark)
+<a href="https://open.spotify.com/intl-fr/artist/1X5nimB3dDNsyoed4FzH3n">
+<img src="https://img.shields.io/badge/Saint&ndash;James-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+<a href="https://open.spotify.com/intl-fr/artist/1pca7aLNfTH9GgVirbglny">
+<img src="https://img.shields.io/badge/Margot_et_max-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</a>
 
 </div>
