@@ -1,4 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+Maxence Robinet
+</div>
+
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+</div>
+
+
+
+I am now working as a freelance web developer, working mostly on Rails and Javascript apps but always excited about learning new technologies and solve problems.
+
+
 
 ![Static Badge](https://img.shields.io/badge/any_text-can_be_here-orange)
 
