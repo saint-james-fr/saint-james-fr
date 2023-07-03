@@ -2,7 +2,7 @@
 <h1><strong>Maxence Robinet</strong></h1>
 <h3><strong>FULLSTACK WEB DEVELOPER</strong></h3>
 
-Welcome! My name is Maxence and I'm a web developer from Paris in France.
+Welcome on my profile! My name is Maxence and I'm a web developer from Paris in France. I love solving the issues of my clients and offer them the best experience and empowering them with web tools.
 
 <a href="https://www.maxencerobinet.fr/">
   <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge" alt="Maxence Robinet portfolio"/>
@@ -12,7 +12,7 @@ Welcome! My name is Maxence and I'm a web developer from Paris in France.
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-⚡ Fun fact - I'm also doing music
+⚡ Fun fact - I'm also doing music!
 
 <a href="https://open.spotify.com/intl-fr/artist/1X5nimB3dDNsyoed4FzH3n">
 <img src="https://img.shields.io/badge/Saint&ndash;James-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
@@ -20,13 +20,6 @@ Welcome! My name is Maxence and I'm a web developer from Paris in France.
 <a href="https://open.spotify.com/intl-fr/artist/1pca7aLNfTH9GgVirbglny">
 <img src="https://img.shields.io/badge/Margot_et_max-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saint-james-fr&theme=dark)](https://git.io/streak-stats)
-[![saint-james-fr stats](https://github-readme-stats.vercel.app/api?username=saint-james-fr&hide=stars&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-![saint-james-fr stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-james-fr&theme=dark)
 
 ---
 
@@ -53,5 +46,14 @@ Welcome! My name is Maxence and I'm a web developer from Paris in France.
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saint-james-fr&theme=dark)](https://git.io/streak-stats)
+[![saint-james-fr stats](https://github-readme-stats.vercel.app/api?username=saint-james-fr&hide=stars&show_icons=true&theme=dark&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+![saint-james-fr stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-james-fr&theme=dark)
 
 </div>
