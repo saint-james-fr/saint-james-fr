@@ -13,8 +13,6 @@ Welcome on my profile! My name is Maxence and I'm a web developer from Paris in 
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-![Github Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saint-james-fr&theme=dark)
-
 ---
 
 ## Langages
