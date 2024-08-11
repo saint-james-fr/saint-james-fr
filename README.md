@@ -3,7 +3,7 @@
 <h1><strong>Maxence Robinet</strong></h1>
 <h3><strong>FULLSTACK WEB DEVELOPER</strong></h3>
 
-Welcome on my profile! My name is Maxence and I'm a web developer from Paris in France. I love solving the issues of my clients and offer them the best experience and empowering them with web tools.
+Welcome on my profile ! I'm a web developer from Paris in France. I love solving the issues of my clients and offer them the best experience by empowering them with web tools.
 
 <a href="https://www.maxencerobinet.fr/">
   <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge" alt="Maxence Robinet portfolio"/>
@@ -15,33 +15,15 @@ Welcome on my profile! My name is Maxence and I'm a web developer from Paris in 
 
 ![Github Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saint-james-fr&theme=dark)
 
----
-
-## Langages
-
-![Ruby](https://img.shields.io/badge/Ruby-9B111E?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby On Rails](https://img.shields.io/badge/Ruby_On_Rails-D81327?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-9B111E?style=for-the-badge&logo=ruby&logoColor=white)
 
-## Stack
-
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxtdotjs&logoColor=F3E00)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
+![Supabase](https://img.shields.io/badge/Supabase-316192?style=for-the-badge&logo=supabase&logoColor=F3E00)
 
 ![saint-james-fr stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-james-fr&theme=dark)
 
