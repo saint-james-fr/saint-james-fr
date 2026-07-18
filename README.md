@@ -1,9 +1,7 @@
 <div align="center">
 
 <h1><strong>Maxence Robinet</strong></h1>
-<h3><strong>FULLSTACK WEB DEVELOPER</strong></h3>
-
-Welcome on my profile ! I'm a web developer from Paris in France. I love solving the issues of my clients and offer them the best experience by empowering them with web tools.
+Welcome on my profile ! I'm a web developer from Paris in France.
 
 <a href="https://www.maxencerobinet.fr/">
   <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge" alt="Maxence Robinet portfolio"/>
