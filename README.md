@@ -2,7 +2,7 @@
 
 <h1><strong>Maxence Robinet</strong></h1>
 Welcome on my profile ! I'm a web developer from Paris in France.
-
+<br>
 <a href="https://www.maxencerobinet.fr/">
   <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge" alt="Maxence Robinet portfolio"/>
 </a>
